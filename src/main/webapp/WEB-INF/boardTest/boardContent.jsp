@@ -20,7 +20,7 @@
 <body>
 <p><br/></p>
 <div class="container">
-  <h2 class="text-center">게시판 상세보기</h2>
+  <h2 class="text-center">게시판 상세보기 와 현시점 git 연습으로 인한 변경</h2>
   <table class="table table-bordered">
     <tr>
       <th class="text-center align-middle bg-body-secondary">글쓴이</th><td>${vo.name}</td>
