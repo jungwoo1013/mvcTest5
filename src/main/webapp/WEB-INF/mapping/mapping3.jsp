@@ -3,12 +3,12 @@
 <html>
 <head>
 		<meta charset="UTF-8">
-		<title>mapping2.jsp</title>
+		<title>mapping3.jsp</title>
 </head>
 <body>
 <p><br/></p>
 <div class="container">
-		<h2>확장자 패턴 연습하기2</h2>
+		<h2>확장자 패턴 연습하기3</h2>
 </div>
 </body>
 </html>
